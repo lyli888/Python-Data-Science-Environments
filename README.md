@@ -5,7 +5,7 @@
 ### pwd [ensure environment file is in working directory] ls [lists files] cd [change directory] cd .. [navigate to top menu]
 ### conda create -n PythonData --file requirement.txt python=3.6 [create environment, answer y when asked]
 ### conda env list [lists environments with * next to active one]
-### conda activate PythonData [OR] source activate PythonData [if you anaconda installed for all users]
+### conda activate PythonData [OR] source activate PythonData [if anaconda installed for all users]
 
 ## PythonAdv (Machine/Deep Learning, Neural Networks)
 ## conda create -n PythonAdv python=3.6
