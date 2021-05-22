@@ -3,7 +3,7 @@
 ## PythonData Installation Via GitBash
 ### conda --version [confirm Anaconda installation]
 ### pwd [ensure environment file is in working directory] ls [lists files] cd [change directory] cd .. [navigate to top menu]
-### conda create -n PythonData --file requirement.txt python=3.6 [create environment, answer y when asked]
+### conda create -n PythonData --file requirement.txt python=3.6 [create environment from txt, answer y when asked]
 ### conda env list [lists environments with * next to active one]
 ### conda activate PythonData [OR] source activate PythonData [if anaconda installed for all users]
 
