@@ -19,6 +19,7 @@
 https://www.tensorflow.org/install
 https://sklearn.org/install.html
 https://scikit-learn.org/stable/install.html
+https://sklearn.org/developers/advanced_installation.html#advanced-installation
 
 ## pip install -U scikit-learn
 ## conda install scikit-learn
