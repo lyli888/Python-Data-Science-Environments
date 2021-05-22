@@ -1,11 +1,11 @@
 # Environment Setup: PythonData & PythonAdv
 
 # PythonData Installation Via GitBash
-## conda --version [confirm Anaconda installation]
-## pwd [ensure environment file is in working directory] ls [lists files] cd [change directory] cd .. [navigate to top menu]
-## conda create -n PythonData --file requirement.txt python=3.6 [create environment, answer y when asked]
-## conda env list [lists environments with * next to active one]
-## conda activate PythonData [OR] source activate PythonData [if you anaconda installed for all users]
+### conda --version [confirm Anaconda installation]
+### pwd [ensure environment file is in working directory] ls [lists files] cd [change directory] cd .. [navigate to top menu]
+### conda create -n PythonData --file requirement.txt python=3.6 [create environment, answer y when asked]
+### conda env list [lists environments with * next to active one]
+### conda activate PythonData [OR] source activate PythonData [if you anaconda installed for all users]
 
 # PythonAdv (Machine/Deep Learning, Neural Networks)
 ## conda create -n PythonAdv python=3.6
@@ -21,9 +21,9 @@ https://sklearn.org/install.html
 https://scikit-learn.org/stable/install.html
 
 ## pip install -U scikit-learn
-### conda install scikit-learn
-### conda update scikit-learn
-### conda remove scikit-learn
+## conda install scikit-learn
+## conda update scikit-learn
+## conda remove scikit-learn
 
 Upgrading with pip install -U scikit-learn or uninstalling pip uninstall scikit-learn is likely fail to properly remove files installed by the conda command.
 pip upgrade and uninstall operations only work on packages installed via pip install.
@@ -43,4 +43,4 @@ pip install tensorflow
 # Or try the preview build (unstable)
 pip install tf-nightly
 
-# Tensorflow Neural Network Playground - click (here)[https://www.playground.tensorflow.org]
+# Tensorflow Neural Network Playground - [https://www.playground.tensorflow.org]
