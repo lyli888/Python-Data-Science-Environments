@@ -9,7 +9,7 @@
 
 ## PythonAdv (Machine/Deep Learning, Neural Networks)
 ## conda create -n PythonAdv python=3.6
-## conda activate PythonAdv or source activate PythonAdv
+## conda activate PythonAdv [or] source activate PythonAdv
 ## conda install numpy pandas requests scipy scikit-learn matplotlib
 ## conda install tensorflow py4j pyspark jupyter_client nb_conda_kernels keras ipykernel
 
