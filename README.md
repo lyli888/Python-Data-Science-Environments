@@ -1,4 +1,4 @@
-# PythonData & PythonAdv Environment Set Up
+# Environment Setup: PythonData & PythonAdv
 
 # PythonData Installation Via GitBash
 ## conda --version [confirm Anaconda installation]
