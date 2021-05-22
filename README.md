@@ -25,7 +25,7 @@ https://scikit-learn.org/stable/install.html
 ## conda update scikit-learn
 ## conda remove scikit-learn
 
-Upgrading with "pip install -U scikit-learn" or uninstalling "pip uninstall scikit-learn" is likely fail to properly remove files installed by the conda command.
+Upgrading with "pip install -U scikit-learn" or uninstalling "pip uninstall scikit-learn" will likely fail to properly remove files installed by the conda command.
 pip upgrade and uninstall operations only work on packages installed via pip install. In the past, sometimes a library would work in Python but not Jupyter Notebook-in that case, "pip3 install" was helpful 
 
 In order to check your installation you can use
