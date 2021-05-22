@@ -42,3 +42,5 @@ pip install tensorflow
 
 # Or try the preview build (unstable)
 pip install tf-nightly
+
+# Tensorflow Neural Network Playground - click (here)[https://www.playground.tensorflow.org]
