@@ -1,6 +1,7 @@
 # Environment Setup: PythonData & PythonAdv
 
 ## PythonData Installation Via GitBash
+After installing Anaconda for all users:
 ### conda --version [confirm Anaconda installation]
 ### pwd [ensure environment file is in working directory] ls [lists files] cd [change directory] cd .. [navigate to top menu]
 ### conda create -n PythonData --file requirement.txt python=3.6 [create environment from txt, answer y when asked]
