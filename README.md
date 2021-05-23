@@ -25,7 +25,7 @@ https://sklearn.org/developers/advanced_installation.html#advanced-installation
 ## pip install/uninstall/update -U scikit-learn
 ## conda install/remove/update 
 
-pip installer has always worked better for me than conda. Pip upgrade and uninstall operations only work on packages installed via pip install. ISometimes a library will work in Python but not in Jupyter Notebook-"pip3 install" was helpful for Python3 files in PythonData.
+pip installer has always worked better for me than conda. Pip upgrade and uninstall operations only work on packages installed via pip install, conda update/remove works on conda install. Sometimes a library will work in Python but not in Jupyter Notebook-"pip3 install" was helpful for Python3 files in PythonData.
 
 ## For Machine Learning/Neural Network/Deep Learning, activate PythonAdv kernel in Jupyter Notebook.
 
