@@ -21,15 +21,14 @@ https://sklearn.org/install.html
 https://scikit-learn.org/stable/install.html
 https://sklearn.org/developers/advanced_installation.html#advanced-installation
 
-## pip install -U scikit-learn
-## conda install scikit-learn
-## conda update scikit-learn
-## conda remove scikit-learn
+## pip install/uninstall/update -U scikit-learn
+## conda install/remove/update 
 
-Upgrading with "pip install -U scikit-learn" or uninstalling "pip uninstall scikit-learn" will likely fail to properly remove files installed by the conda command.
-pip upgrade and uninstall operations only work on packages installed via pip install. In the past, sometimes a library would work in Python but not Jupyter Notebook-in that case, "pip3 install" was helpful 
+pip installer has always worked better for me than conda. Pip upgrade and uninstall operations only work on packages installed via pip install. ISometimes a library will work in Python but not in Jupyter Notebook-"pip3 install" was helpful for Python3 files in PythonData.
 
-In order to check your installation you can use
+## For Machine Learning/Neural Network/Deep Learning, activate PythonAdv kernel in Jupyter Notebook.
+
+In order to check your Scikit Learn installation you can use
 
 python -m pip show scikit-learn  # to see which version and where scikit-learn is installed
 python -m pip freeze  # to see all packages installed in the active virtualenv
@@ -38,10 +37,7 @@ python -c "import sklearn; sklearn.show_versions()"
 ## Requires the latest pip
 pip install --upgrade pip
 
-## Current stable release for CPU and GPU
+## Tensorflow
 pip install tensorflow
-
-# Or try the preview build (unstable)
-pip install tf-nightly
 
 ## Tensorflow Neural Network Playground - [https://www.playground.tensorflow.org]
