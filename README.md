@@ -1,7 +1,8 @@
 # Environment Setup: PythonData & PythonAdv
 
 ## PythonData Installation Via GitBash
-After installing Anaconda for all users:
+The specifics of altering your Python environments in Terminal/Gitbash will depend on your initial Anaconda installation and the directory/level on which you Gitbash.
+If your Windows username has spaces, some libraries will not work. As a rule, make names all lowercase no spaces
 ### conda --version [confirm Anaconda installation]
 ### pwd [ensure environment file is in working directory] ls [lists files] cd [change directory] cd .. [navigate to top menu]
 ### conda create -n PythonData --file requirement.txt python=3.6 [create environment from txt, answer y when asked]
