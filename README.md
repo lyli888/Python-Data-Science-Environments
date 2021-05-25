@@ -44,7 +44,7 @@ pip install tensorflow
 
 ## Tensorflow Neural Network Playground - [https://www.playground.tensorflow.org]
 
-#Big Data: Hadoop Clusters
+# Big Data: Hadoop Clusters
 
 ## Hadoop via MRJOB Library
 source activate PythonAdv
