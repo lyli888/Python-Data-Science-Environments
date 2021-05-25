@@ -43,3 +43,12 @@ pip install --upgrade pip
 pip install tensorflow
 
 ## Tensorflow Neural Network Playground - [https://www.playground.tensorflow.org]
+
+## Hadoop via MRJOB Library
+source activate PythonAdv
+### conda install -c conda-forge mrjob
+[MRJOB library invokes Hadoop for the user]
+To run, call app.py file and the resource file [ex csv] in command line after source activate PythonAdv
+
+## Hadoop Via Google Cloud
+Google Drive -> Google Colaboratory -> Install in Drive to run Jupyter Notebooks 
